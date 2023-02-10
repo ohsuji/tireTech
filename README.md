@@ -19,10 +19,10 @@
 - 메뉴
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/110226420/218133292-b5bf2668-e1c4-410d-8e61-b37f88a6b34f.png">
 
-- 서브메뉴 1
+- 서브 페이지 1
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/110226420/218133966-f72a8d2f-c9f5-4c7d-8f59-902e2c94c44d.png">
 
-- 서브메뉴 2
+- 서브 페이지 2
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/110226420/218134207-e5219294-6a0f-4d8b-b123-7bbea1a6fa91.png">
 
 <br>
